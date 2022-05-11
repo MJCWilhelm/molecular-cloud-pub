@@ -20,9 +20,9 @@ With:
 
 We have provided the initial conditions of all runs in the output directory. Once the `_run{a}` suffix, with `{a}` the run number, is removed, it can be read by the main script. The IMF seeds for all runs are:
 
-1: 89168967
-2: 22323457
-3: 84357089
-4: 83236243
-5: 92455439
-6: 39203741
+1. 89168967
+2. 22323457
+3. 84357089
+4. 83236243
+5. 92455439
+6. 39203741
