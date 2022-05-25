@@ -1,4 +1,5 @@
 # molecular-cloud-pub
+[![DOI](https://zenodo.org/badge/491015570.svg)](https://zenodo.org/badge/latestdoi/491015570)
 The code used in arXiv:2101.07826.
 
 Runs a model with coupled hydrodynamics, stellar dynamics, and protoplanetary disk evolution. Stars and disks are formed dynamically from sink particles that form in regions of high gas density. Stars with masses >1.9 MSun are FUV luminous, and provide a radiation field that drives external photoevaporation in disks. Encounters between stars can also result in dynamic disk truncation.
