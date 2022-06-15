@@ -1,0 +1,19 @@
+# Table II from Avedisova 1979, Soviet Astronomy Vol. 23
+# Values for z=0.02
+# Stellar mass [MSun]; Ionising luminosity [s^-1]
+81.     49.83
+57.     49.44
+45.     49.18
+37.     48.93
+30.     48.67
+27.     48.50
+25.5    48.42
+23.4    48.30
+21.4    48.14
+19.5    47.97
+17.4    47.76
+15.     47.45
+10.2    45.65
+7.7     44.44
+6.3     43.80
+5.1     43.05
